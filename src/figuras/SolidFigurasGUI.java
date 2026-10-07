@@ -11,7 +11,7 @@ public class SolidFigurasGUI extends JFrame implements ActionListener {
 
     private JButton btnCalcular;
     private JTextArea txtResultado;
-
+//cambio prueba
     public SolidFigurasGUI() {
         setTitle("Aplicación de Principios SOLID");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
